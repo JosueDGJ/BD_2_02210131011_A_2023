@@ -7,3 +7,4 @@
 # BD_2_02210131011_A_2023_taller_6_exposición_manager_user_MySQL_Postgresql: https://github.com/JosueDGJ/BD_2_02210131011_A_2023/blob/main/Manejo%20de%20usuarios%20MySQL%20y%20Postgre%20Josue%20Gelvez.pdf
 # BD_2_02210131011_A_2023_taller_7_Usurios_MySQL_Conexión: https://github.com/JosueDGJ/BD_2_02210131011_A_2023/blob/main/Usuarios%20MySQL%20Josue%20Gelvez.pdf
 # BD_2_02210131011_A_2023_taller_vistas_MySQL_Postgres: https://github.com/JosueDGJ/BD_2_02210131011_A_2023/blob/main/Vistas%20MySQL%20y%20Postgres%20Josue%20Gelvez.pdf
+# BD_2_02210131011_A_2023_taller_Corrección_Parcial2: https://github.com/JosueDGJ/BD_2_02210131011_A_2023/blob/main/Taller%20Correcci%C3%B3n%20Parcial2%20SGDB%20Josue%20Gelvez.pdf
