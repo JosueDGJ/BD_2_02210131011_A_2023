@@ -9,3 +9,4 @@
 # BD_2_02210131011_A_2023_taller_vistas_MySQL_Postgres: https://github.com/JosueDGJ/BD_2_02210131011_A_2023/blob/main/Vistas%20MySQL%20y%20Postgres%20Josue%20Gelvez.pdf
 # BD_2_02210131011_A_2023_taller_Corrección_Parcial2: https://github.com/JosueDGJ/BD_2_02210131011_A_2023/blob/main/Taller%20Correcci%C3%B3n%20Parcial2%20SGDB%20Josue%20Gelvez.pdf
 # BD_2_02210131011_A_2023_taller_en_clase: https://github.com/JosueDGJ/BD_2_02210131011_A_2023/blob/main/taller%20en%20clase.pdf
+# BD_2_02210131011_A_2023_taller3_Corte3:https://github.com/JosueDGJ/BD_2_02210131011_A_2023/blob/main/Taller%203%20P3%20SGDB.pdf
